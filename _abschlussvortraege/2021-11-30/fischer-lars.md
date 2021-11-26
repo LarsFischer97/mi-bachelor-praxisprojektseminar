@@ -9,13 +9,10 @@ thema: Konzeptionierung & Entwicklung eines API-Explorers
 kooperationspartner: d.velop
 teaserimage: fischer-lars-teaserimage.jpg
 stichworte: API, REST, User Interface, React, Frontend, d.velop, Explorer, Redux, API-Dokumentation
-quelle-bildrechte-teaser: Erweitert von Smart Homepage Agentur | (https://www.smart-homepage-agentur.de/images/api/api-schnittstelle-illustration.jpg)
+quelle-bildrechte-teaser: Erweitert von Smart Homepage Agentur - (https://www.smart-homepage-agentur.de/images/api/api-schnittstelle-illustration.jpg)
 hinweise:
-weiterfuehrende-themen: Vertiefende Analyse: Microsoft Graph Explorer // Google APIs Explorer // Facebook Graph API Explorer // ...
+weiterfuehrende-themen: Vertiefende Analyse über Microsoft Graph Explorer, Google APIs Explorer, Facebook Graph API Explorer. - Weiterentwicklung API-Explorer: Dynamische oder eigene Templates, flexible API Einbindung. - Vergleichbare/Aufbauende Themen: Unterschiedliche Formen von API-Dokumentationen, Interaktive API-Dokumentationen, automatische Template oder API-Dokumentation Generierung, Integration API-Explorer in API-Dokumentation mittels Web Components
 
-                        Weiterentwicklung API-Explorer: Dynamische oder eigene Templates, flexible API Einbindung
-
-                        Vergleichbare/Aufbauende Themen: Unterschiedliche Formen von API-Dokumentationen, Interaktive API-Dokumentationen, automatische Template oder API-Dokumentation Generierung, Integration API-Explorer in API-Dokumentation mittels Web Components
 ---
 
 ## Abstract
